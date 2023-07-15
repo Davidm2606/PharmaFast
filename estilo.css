@@ -1,0 +1,48 @@
+body {
+    background: rgb(241, 237, 237);
+}
+
+header {
+    position: relative;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
+
+nav {
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    background: rgb(91, 203, 92);
+    color: white;
+} 
+
+nav ul{
+    position: relative;
+    margin: auto;
+    width: 50%;
+    text-align: none;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: auto;
+    width: 20%;
+    line-height: 50px;
+    list-style: none;
+}
+
+nav ul li a{
+    color:  white;
+    text-decoration: none;
+}
+
+
+
+footer {
+    background: rgb(91, 203, 92);
+    color: white;
+    text-align: center;
+    font-size: large;
+}
